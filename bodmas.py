@@ -1,0 +1,10 @@
+value1 =int(input("Please enter first value: "))
+value2 =int (input("Please enter second value: "))
+Sum= value1 + value2
+Difference= value1 - value2
+Product= value1 * value2
+Quotient= value1/value2
+print("sum= ", Sum)
+print("Difference= ", Difference)
+print("Product= ", Product)
+print("Quotient= ", Quotient)
